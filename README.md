@@ -37,7 +37,7 @@ Durante o desenvolvimento, foi possível aprender como:
 
 ---
 
-##  Sobre o Banco de Dados
+##  o Banco de Dados
 
 O banco é composto por três tabelas principais:
 
