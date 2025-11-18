@@ -1,4 +1,4 @@
-#  Banco de Dados – TechZada Lan House & Suporte Full-Stack
+#  Banco de Dados – Lan house
 
 Este repositório faz parte da disciplina de Banco de Dados e contém o projeto SQL desenvolvido para uma empresa fictícia chamada **TechZada**, uma lan house moderna que oferece diversos serviços: acesso a computadores, internet, impressão, xerox, suporte técnico e até ajuda especializada com programadores full-stack.
 
